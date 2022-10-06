@@ -1,3 +1,3 @@
 # .github
 
-Organization's public overview page repository.
+Organization's overview public page repository.
